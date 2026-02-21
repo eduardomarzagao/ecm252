@@ -1,6 +1,3 @@
-def somar(a, b):
-    return a + b
-
 def somar(*args):
     soma = 0
     for arg in args:
@@ -8,4 +5,12 @@ def somar(*args):
 
     return soma
 
+def subtrair(a, *args):
+    sub = a
+    for arg in args:
+        sub -= arg
+
+    return sub
+
 print(somar(2, 3))
+print(subtrair(2, 3, -2))
