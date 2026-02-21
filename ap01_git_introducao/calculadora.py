@@ -32,7 +32,7 @@ def multiplicar(a, b):
 def dividir(a, b):
     return a/b
 
-print(somar(2, 3))
-print(subtrair(2, 3, -2))
-print(multiplicar(7, 8))
-print(dividir(7, 8))
+# print(somar(2, 3))
+# print(subtrair(2, 3, -2))
+# print(multiplicar(7, 8))
+# print(dividir(7, 8))
