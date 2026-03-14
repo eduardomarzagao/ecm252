@@ -1,0 +1,5 @@
+local: válido somente para o repositório atual
+
+global: válido para todos os repositórios criados pelo usuário logado atualmente no SO
+
+system: válido para todos os repositórios 
